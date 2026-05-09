@@ -8,16 +8,9 @@
 
 | Secteur | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Python, PostgreSQL |
-| **Outils** | Docker, Git, Figma |
-
----
-
-### 🔭 Sur quoi je travaille en ce moment ?
-- 🔭 Je développe actuellement **[Nom du projet]**, une application qui permet de [Utilité].
-- 🌱 J'apprends en profondeur **[Technologie apprise, ex: Rust ou Kubernetes]**.
-- 👯 je cherche à collaborer sur des projets **Open Source** autour de [Sujet].
+| **Frontend** | html, CSS, JavaScript |
+| **Backend** | Java, Python, PHP |
+| **Outils** | Git, VSCode |
 
 ---
 
@@ -31,8 +24,7 @@
 ### 📫 Me contacter
 
 - **LinkedIn**: [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
-- **Portfolio**: [ton-site.com](https://ton-site.com)
-- **Email**: [ton-email@exemple.com]
+- **Email**: [edouard.morel06@gmail.com]
 
 ---
 
