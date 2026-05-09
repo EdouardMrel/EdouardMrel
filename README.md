@@ -16,7 +16,7 @@
 
 ### 📫 Me contacter
 
-- **LinkedIn**: [linkedin.com/in/edouard-morel](https://linkedin.com/in/edouard-morel-150061332)
+- **LinkedIn**: [linkedin.com/in/edouard-morel-150061332](https://linkedin.com/in/edouard-morel-150061332)
 - **Email**: [edouard.morel06@gmail.com]
 
 ---
