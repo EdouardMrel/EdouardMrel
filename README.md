@@ -1,19 +1,39 @@
-# About me :
-<h1 align="center">Salut 👋, Je suis Edouard Morel 🏄‍♂</h1>
-<h3 align="center">📍Je viens de Lyon 🔴🔵.</h3>
+# Salut, moi c'est Edouard ! 👋
 
-## Formation :
-Je suis actuellement en école d'ingénieur à l'ECE Lyon.
+### 👨‍💻 Passionné par l'ingénierie
 
-J'utilise **GITHUB** pour effectuer divers projet :
-- Electronique⚡️
-- Informatique💻
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-### Languages :
+### 🛠 Stack Technique
 
-- Espagnole B1
-- Anglais B2
+| Secteur | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Python, PostgreSQL |
+| **Outils** | Docker, Git, Figma |
 
+---
 
+### 🔭 Sur quoi je travaille en ce moment ?
+- 🔭 Je développe actuellement **[Nom du projet]**, une application qui permet de [Utilité].
+- 🌱 J'apprends en profondeur **[Technologie apprise, ex: Rust ou Kubernetes]**.
+- 👯 je cherche à collaborer sur des projets **Open Source** autour de [Sujet].
+
+---
+
+### 📊 Mes Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TON_PSEUDO]&layout=compact&theme=radical)
+
+---
+
+### 📫 Me contacter
+
+- **LinkedIn**: [linkedin.com/in/ton-profil](https://linkedin.com/in/ton-profil)
+- **Portfolio**: [ton-site.com](https://ton-site.com)
+- **Email**: [ton-email@exemple.com]
+
+---
+
+*Dernière mise à jour : Mai 2026*
